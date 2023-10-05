@@ -1,7 +1,7 @@
 # QBlock
 
-**QBlock is a revolutionizing the future of decentralized computing with quantum-powered solutions.
-**
+**QBlock is a revolutionizing the future of decentralized computing with quantum-powered solutions.**
+
 It is our pleasure to announce to introduce QBlock to be part of Qbits ecosystem. It is a software development framework that combines the power of decentralization technology, blockchain, and quantum technology.
 
 QBlock has developed and produced a PropTech product called Aqarblock (https://www.aqarblock.xyz/); it is a complete and comprehensive blockchain Dapp targeting a real estate market. The merging-technologies will potentially play a big-role in the real estate market and will rephrase our understanding to this sector as an area of opportunities.
