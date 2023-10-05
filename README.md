@@ -9,10 +9,6 @@
 
 
 
-![QBlock logo](https://github.com/QBlockQ/qblock/blob/main/QBlocklogo.png)
-
-
-
 QBlock is a revolutionizing the future of decentralized computing with quantum-powered solutions.
 
 It is our pleasure to announce to introduce QBlock to be part of Qbits ecosystem. It is a software development framework that combines the power of decentralization technology, blockchain, and quantum technology.
