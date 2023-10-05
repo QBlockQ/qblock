@@ -10,4 +10,8 @@ QBlock has developed and produced a PropTech product called Aqarblock (https://w
 
 Blockchain and decentralization technology could also transform the real estate industry, by enabling increased transparency, faster and cheaper transactions, improved security, increased accessibility, improved liquidity, greater efficiency, enhanced due diligence, better data management, improved cross-border transactions, and greater flexibility.
 
-Overall, merging these technologies could have significant benefits for the real estate industry, enabling more efficient, secure, and accessible transactions, as well as more sophisticated analysis and decision-making tools. As these technologies continue to evolve, it will be exciting to see how they transform the real estate landscape in the years to come
+Overall, merging these technologies could have significant benefits for the real estate industry, enabling more efficient, secure, and accessible transactions, as well as more sophisticated analysis and decision-making tools. As these technologies continue to evolve, it will be exciting to see how they transform the real estate landscape in the years to come.
+
+Clone the repository:
+
+'''git clone https://github.com/QBlockQ/qblock.git'''
