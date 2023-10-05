@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/QBlockQ/qblock/blob/main/QBlocklogo.png" />
+  <img src="https://github.com/QBlockQ/qblock/blob/main/Circlelogo.png" />
 </p>
 
 
