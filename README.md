@@ -1,7 +1,7 @@
 # QBlock
 
-**QBlock is a revolutionizing the future of decentralized computing with quantum-powered solutions.**
-
+**QBlock is a revolutionizing the future of decentralized computing with quantum-powered solutions.
+**
 It is our pleasure to announce to introduce QBlock to be part of Qbits ecosystem. It is a software development framework that combines the power of decentralization technology, blockchain, and quantum technology.
 
 QBlock has developed and produced a PropTech product called Aqarblock (https://www.aqarblock.xyz/); it is a complete and comprehensive blockchain Dapp targeting a real estate market. The merging-technologies will potentially play a big-role in the real estate market and will rephrase our understanding to this sector as an area of opportunities.
@@ -12,8 +12,27 @@ Blockchain and decentralization technology could also transform the real estate 
 
 Overall, merging these technologies could have significant benefits for the real estate industry, enabling more efficient, secure, and accessible transactions, as well as more sophisticated analysis and decision-making tools. As these technologies continue to evolve, it will be exciting to see how they transform the real estate landscape in the years to come.
 
-Clone the repository:
+**1. Clone the repository:**
 
  ```
 git clone https://github.com/QBlockQ/qblock.git
  ```
+**2.  Navigate to the project directory:**
+
+ ```
+cd qblock
+ ```
+
+**3.  Install dependencies:**
+
+ ```
+npm install
+ ```
+
+**4.  Run the application:**
+
+ ```
+npm start
+ ```
+
+**5.  Open your web browser and navigate to http://localhost:3000 to view the application and Enjoy:heart:,:+1:.**
