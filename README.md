@@ -6,7 +6,7 @@ It is our pleasure to announce to introduce QBlock to be part of Qbits ecosystem
 
 QBlock has developed and produced a PropTech product called Aqarblock (https://www.aqarblock.xyz/); it is a complete and comprehensive blockchain Dapp targeting a real estate market. The merging-technologies will potentially play a big-role in the real estate market and will rephrase our understanding to this sector as an area of opportunities.
 
-Quantum computing and technology have the potential to revolutionize many industries, including real estate. They could enable faster and more accurate property valuations, more efficient portfolio optimization, improved risk analysis, enhanced security, automated smart contracts, improved energy efficiency, more accurate weather forecasting, better urban planning, improved customer experiences, and enhanced real estate analytics.
+> Quantum computing and technology have the potential to revolutionize many industries, including real estate. They could enable faster and more accurate property valuations, more efficient portfolio optimization, improved risk analysis, enhanced security, automated smart contracts, improved energy efficiency, more accurate weather forecasting, better urban planning, improved customer experiences, and enhanced real estate analytics.
 
 Blockchain and decentralization technology could also transform the real estate industry, by enabling increased transparency, faster and cheaper transactions, improved security, increased accessibility, improved liquidity, greater efficiency, enhanced due diligence, better data management, improved cross-border transactions, and greater flexibility.
 
