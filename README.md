@@ -1,5 +1,15 @@
 # QBlock
-                                           ![QBlock logo](https://github.com/QBlockQ/qblock/blob/main/QBlocklogo.png)
+
+
+<p align="center">
+  <img src="https://github.com/QBlockQ/qblock/blob/main/QBlocklogo.png" />
+</p>
+
+
+
+
+
+![QBlock logo](https://github.com/QBlockQ/qblock/blob/main/QBlocklogo.png)
 
 
 
