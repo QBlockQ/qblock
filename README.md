@@ -14,4 +14,6 @@ Overall, merging these technologies could have significant benefits for the real
 
 Clone the repository:
 
-'''git clone https://github.com/QBlockQ/qblock.git'''
+'''
+git clone https://github.com/QBlockQ/qblock.git
+'''
